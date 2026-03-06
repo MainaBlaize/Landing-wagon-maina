@@ -1,10 +1,14 @@
-.btn-blue {
-	background-color: black;
-	padding:  15px 20px;
-	border-radius: 4px;
-	color: white;
-	font font-weight: bold;
-	font-family: 'Roboto', sans-serif;
+.btn-green {
+  background-color: #2ecc71;
+  color: white;
+  padding: 15px 40px;
+  border-radius: 6px;
+  text-decoration: none;
+  font-weight: bold;
+  display: inline-block;
+  margin-top: 20px;
 }
 
-
+.btn-green:hover {
+  background-color: #27ae60;
+}
